@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+//video for tutorial: https://www.youtube.com/watch?v=lF5m4o_CuNg&t=317s
     private EditText Name;
     private EditText Password;
     private Button Login;
